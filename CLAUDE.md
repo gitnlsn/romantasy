@@ -7,9 +7,15 @@ KDP-ready EPUB and a print-ready PDF, with the same toolchain as *Quarenta dias
 úteis* (`../artificial-intelligence-a-dystopia`), *Manual da Vida* and *What
 Remains*.
 
-## The series: nothing decided yet
+## The series: genre decided, the rest open
 
-Genre, premise, number of books and series name are all open. They live in
+**Genre: Brazilian folk romantasy** (*romantasia de encantaria*): romance and
+fantasy in equal parts, in a river-and-floodplain Brazil where the *encantados*
+are real. The tone is sharp, sensual and dangerous, not the restrained
+emotional voice of the earlier series. Reasoning, tone and heat level are in
+`docs/series.md`. **One book for now**, written to stand alone (a trilogy may
+come later). The seed book's premise, setting and four arcs are approved in
+`docs/livro-1/outline.md`. Series name and publication order are still open in
 `docs/series.md` as `[[?autor: …]]` markers, so `make marcadores` keeps asking.
 
 There is one **seed book**, `livro-1`, with its English edition `book-1`. Both
@@ -25,9 +31,37 @@ are approved, the whole book is drafted in one go for a single review pass. When
 the author delegates a decision, take it, record the reasoning in the outline,
 and say what was decided.
 
-If the series turns out to be science fiction, carry over the *O futuro na
-página* rules from `../science-fiction/CLAUDE.md`. Otherwise, write this
-genre's equivalent rules here once the genre is chosen.
+## O encanto na página
+
+The genre's two failure modes are the folklore catalogue (Boto, Curupira and
+Iara listed and dropped like a bestiary) and the romance that stops the plot.
+The rules:
+
+- **Every enchantment is used, not mentioned.** A being or a spell is on the
+  page because someone is dealing with it in this scene.
+- **Magic has a rule, a price and a limit.** Every bargain with an *encantado*
+  costs something the reader can name. Plot lives in the price.
+- **Nobody on the river is amazed by the river.** Locals treat the *encantados*
+  the way they treat a current: with respect, habit and precautions. Wonder
+  belongs to the reader, or to an outsider the book declares as one. In the
+  seed book that outsider is the protagonist, a lawyer raised away from the
+  river; everyone around her follows the rule.
+- **The romance is the spine.** Every chapter moves the relationship, the plot,
+  or (ideally) both. The obstacle is real on both sides, internal and external.
+  No instant love: the desire comes first, the trust is earned.
+- **Enchantment is never consent.** The folklore is full of seduction by spell
+  (the Boto is the obvious case). The book may use that as threat and theme, but
+  what happens between the lovers on the page is chosen with a clear head, and
+  the text makes that visible.
+- **Folklore is the source; living religion is not a costume.** Tambor de mina,
+  pajelança cabocla, umbanda, candomblé and Indigenous cosmologies are living
+  practices. The book's *encantaria* is its own invention, drawn from folklore
+  and named as fiction. It never stages a real ritual as a magic system. What
+  the book asserts about real traditions, places, food or speech goes in
+  `docs/<slug>/references.md` or is marked `[[?fato: …]]`.
+- **The world is canon once written.** Invented beings, places, bargains and
+  their rules go in that book's `bible.md` in the same session, or are marked
+  `[[?mundo: …]]`.
 
 ## O mundo é canônico — docs/<slug>/bible.md
 
