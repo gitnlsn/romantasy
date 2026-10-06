@@ -28,6 +28,24 @@ temperatura da água), o que pode, o que **não** pode, e o que cobra. É inven�
 do livro, tirada do folclore e nunca de um rito real (`CLAUDE.md`, *O encanto
 na página*). Um encanto sem preço não gera enredo.
 
+### O encanto do boto
+
+Passa pelo toque, quando o boto quer. Tomé evita tocar Jaci: no velório, não
+aperta a mão que ela estende (*Melhor não*). Não é que não possa tocá-la sem
+encantar; é que não confia em si mesmo para não querer. Capítulo: *O velório*.
+
+### Como Tomé aparece
+
+Linho branco amarrotado, aberto no pescoço; descalço; chapéu branco de abas
+largas que nunca tira (*Porque tu ia ficar com medo*). A roupa sempre seca, as
+mãos sempre molhadas. Cheira a água limpa e fria e a uma flor doce e um pouco
+podre. Traz frio ao chegar perto. Quando ele chega, os sapos, os cachorros e as
+rezas param, e as velas se inclinam para o lado dele. A canoa anda sem remo,
+contra a corrente, e some no meio do rio de uma vez, como uma luz apagada.
+Também aparece como boto-cor-de-rosa, parado contra a corrente, de frente para
+a casa. Fala com sotaque do lugar, mais antigo, de erres moles. Chama Jaci de
+*tu*. Capítulo: *O velório*.
+
 ### O Encante
 
 A cidade dos encantados no fundo do rio. Quem é levado para lá não morre: fica.
@@ -63,6 +81,21 @@ Governa o Encante e é dona da dívida. Invenção do livro, não uma entidade d
 nenhuma tradição real. Sai do livro humilhada, não destruída.
 [[?mundo: como aparece, o que quer com Jaci, por que cobrou duas vezes]]
 
+## Os costumes do Rebojo
+
+Precauções que a vila segue sem explicar, como quem não mexe em fio
+desencapado. Invenção do livro, não costume documentado de nenhuma comunidade
+real. Capítulo: *O velório*.
+
+- Em velório, a porta dos fundos (a do rio) fica trancada, com um pano de prato
+  pendurado em cima; a da frente fica aberta. *Velório atrai visita.*
+- Ninguém senta de costas para a janela do rio, nem olha por ela: as cadeiras
+  ficam de lado.
+- Ninguém assobia de noite.
+- Não se fala o nome de um encantado perto d'água, nem perto do filtro.
+- Ninguém olha para o remanso de tardinha.
+- Quem chega de fora em velório fica dentro de casa até o sol.
+
 ## As instituições
 
 ## O vocabulário do mundo
@@ -71,6 +104,23 @@ Palavras inventadas, gírias, nomes de produtos e serviços. Uma entrada por
 termo, com o sentido e o capítulo em que aparece.
 
 ## Os lugares
+
+### O Rebojo
+Vila inventada na margem direita do Tapajós, entre Santarém e Alter do Chão.
+Uma fila de casas de madeira em cima de uma ribanceira de barro vermelho, uma
+igrejinha azul, um trapiche comprido, a mata atrás. O padre vem de Alter do
+Chão. Capítulo: *O velório*.
+
+### A casa do avô
+A última da fila, a mais perto do rio. Janelas de um azul desbotado; a escada de
+madeira range em três notas. Sala com a janela do rio; cozinha com filtro de
+barro; o quarto dele com uma rede atravessada, uma cama de solteiro sem uso, um
+guarda-roupa de uma porta e a foto de formatura de Jaci presa com durex. Debaixo
+da cama, o baú com cadeado; a chave fica com Dona Antônia até depois do enterro.
+Um jambeiro no terreiro. Capítulo: *O velório*.
+
+### O remanso do Jutaí
+Remanso de água parada perto do Rebojo, onde o avô foi achado. Capítulo: *O velório*.
 
 ## O elenco
 
@@ -89,6 +139,32 @@ se espanta com os encantados; quem é do rio os trata como trata a correnteza.
 | III — A cheia | Apaixonada e confiando | Sozinha e lúcida; decide descer como advogada, não como noiva |
 | IV — O fundo | Ana, que foi embora | Jaci, que fica, por escolha |
 
-### Tomé, a Dona do Fundo, a mãe, o avô
+Nome completo: Ana Jaci da Silva Moraes. Cresceu num apartamento de dois quartos
+na Vila Mariana, em São Paulo. Passou na OAB de primeira; ganhou sozinha uma causa
+trabalhista contra um banco. Diante do que não entende, escreve no celular o que
+sabe, separado do que acha. Chega ao velório de blazer preto de tribunal.
+Capítulo: *O velório*.
 
-Ver *A encantaria* acima. A mãe: [[?mundo: nome, onde vive, por que nunca contou]]
+### O avô, Raimundo
+Morreu aos 78 anos. Atravessava o Tapajós a nado para provar que ainda podia.
+Não bebia. Ia a São Paulo de dois em dois anos, dormia no sofá, levava farinha
+numa sacola de pano. Só ele chamava a neta de Jaci (*Jaci, olha a lua*).
+Capítulo: *O velório*.
+
+### Dona Antônia
+Vizinha do avô há cinquenta anos; cabelo branco num coque baixo, vestido de
+florzinha, cheiro de café e alfazema. Lavou o corpo, marcou o enterro. Guarda a
+chave do baú. Ninguém diz ainda que foi ela a parteira. Capítulo: *O velório*.
+
+### Bené
+Barqueiro de uns cinquenta anos, dono de uma voadeira; boné do Paysandu
+desbotado. Fala olhando para o rio. Foi quem achou o avô no remanso. Capítulo:
+*O velório*.
+
+### A mãe, Lúcia
+Mora em São Paulo. Não vai ao enterro do pai. Faz Jaci prometer que não entra no
+rio, *nem pra molhar o pé*. Capítulo: *O velório*.
+
+### Tomé, a Dona do Fundo
+
+Ver *A encantaria* acima. A mãe: ver acima. [[?mundo: por que a mãe nunca contou, nas palavras dela]]

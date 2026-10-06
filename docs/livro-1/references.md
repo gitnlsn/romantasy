@@ -44,6 +44,17 @@ turismo; conferir o pico na régua da ANA em Santarém antes de datar um capítu
 [[?fato: o mês do pico da cheia em Santarém, pela régua da ANA]]
 Usado em: o plano (o relógio da cheia).
 
+### O que *O velório* afirma sobre o lugar [care]
+Afirmado na prosa, a conferir antes de o capítulo ir para `revised`:
+o Paysandu é clube de Belém; a voadeira é o barco de alumínio a motor da região;
+o *tu* com o verbo na terceira pessoa (*tu é*, *tu vai*) é a fala do oeste do
+Pará; o boto-cor-de-rosa (*Inia geoffrensis*) vive no Tapajós, sobe para
+respirar com um sopro audível, e o intervalo entre as subidas cabe numa contagem
+até doze; o pôr do sol em Santarém no fim de abril é por volta das seis; bolo de
+macaxeira, jambeiro e filtro de barro numa casa ribeirinha.
+[[?fato: conferir a lista acima, de preferência com um leitor de Santarém]]
+Usado em: *O velório*.
+
 ### A Festa do Çairé, Alter do Chão
 Terceiro fim de semana de setembro. Religiosa e folclórica, de origem jesuíta e
 indígena. O Festival dos Botos começou em 1997; desde 1999 é disputa entre os

@@ -6,7 +6,9 @@ book, and wins over the series file when they disagree.
 
 ## Voice
 
-[[?autor: person and tense, as fixed in docs/livro-1/outline.md]]
+First person, present tense, Jaci only (fixed in `docs/livro-1/outline.md`).
+The regional *tu* has no English equivalent: carry it through rhythm and
+vocabulary, never through invented dialect spelling. Tomé's *Jaci* stays.
 
 ## Titles
 
